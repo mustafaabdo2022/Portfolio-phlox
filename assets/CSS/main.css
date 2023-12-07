@@ -179,7 +179,7 @@ header {
   color: var(--color-secondary);
 }
 
-.nav-right :nth-child(1) .btn {
+.nav-right .btn-nav {
   background-color: #111822;
   transition: all 0.15s ease-out;
 }
